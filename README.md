@@ -86,12 +86,3 @@ Random Forest reduces variance through averaging.
 Subagging improves stability but may have slightly higher bias.
 
 ---
-
-## 📂 Files Included
-
-- task3_bike_regression_ensembles.py
-- hour.csv
-- cv_regression_results.csv
-- final_predictions.csv
-- README.md
-- Report.pdf
